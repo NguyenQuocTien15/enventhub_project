@@ -1,0 +1,3 @@
+[submodule "eventhub/client"]
+	path = eventhub/client
+	url = ../eventhub.git
